@@ -5,9 +5,12 @@ Curso mais completo e gratuito de Laravel do Universo aqui do Brasil com ele voc
 E veja de quebra além de toda a vantagem de não pagar nada você ainda terá a oportunidade de saber como foi elaborado o projeto Laravel Pagseguro. - E quem sabe depois de conhecer a criação do Laravel PagSeguro você não faça queira criar a sua própria biblioteca ?
 
 # [Slack da Webschool](https://webschool-slack.herokuapp.com/)
+- Acesse o link acima
 - Coloque um email para login( hotmail não funciona )
+- O navegador pode bloquear alguma execução de script (desbloqueie)
 - Após isso, clique em Webschool para entrar no link do slack
-- Coloque o email que você digitou antes e crie uma senha
+- Entre no e-mail que cadastrou para confirme sua inscrição
+- Cadastre no slack um usuário e senha e acesse
 - Entre no channel `curso-laravel`
 
 ## Brindes
